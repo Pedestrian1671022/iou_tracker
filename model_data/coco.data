@@ -1,0 +1,8 @@
+classes= 1
+train  = /home/Pedestrian/Downloads/darknet-master/data/coco/trainvalno5k.txt
+valid  = coco_testdev
+#valid = /home/Pedestrian/Downloads/darknet-master/data/coco_val_5k.list
+names = /home/Pedestrian/Videos/deep_sort_yolov3_2/model_data/predefined_classes.txt
+backup = /home/Pedestrian/Documents/deep_sort_yolov3-master/model_data/backup/
+eval=coco
+
